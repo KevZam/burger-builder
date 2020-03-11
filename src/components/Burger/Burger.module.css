@@ -2,7 +2,9 @@
   width: 100%;
   margin: auto;
   height: 250px;
-  overflow: scroll;
+  /* TODO weird square around burger caused by overflow, taking off for now 
+   overflow: scroll;
+   */
   text-align: center;
   font-weight: bold;
   font-size: 1.2rem;
